@@ -1,0 +1,43 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: red;
+  padding-top: 3rem;
+}
+
+p.lead {
+  font-size: 20px;
+  color: black;
+  padding-left: 3rem;
+}
+
+.navbar {
+  font-size: 15px;
+}
+
+.navbar-brand {
+  padding-top: 1rem;
+  font-size: 20px;
+}
+
+.icon-bar a {
+  display: block;
+  text-align: left;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+  margin-right: 200px;
+}
+
+/* Style the social media icons with color, if you want */
+.icon-bar a:hover {
+  background-color: #000;
+}
